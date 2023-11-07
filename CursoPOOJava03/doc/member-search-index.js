@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.algaworks.curso.fjoo.imc","c":"CalculoIMC","l":"CalculoIMC()","u":"%3Cinit%3E()"},{"p":"com.algaworks.curso.fjoo.imc","c":"CalculoIMC","l":"imprimir(String)","u":"imprimir(java.lang.String)"},{"p":"com.algaworks.curso.fjoo.imc","c":"CalculoIMC","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
